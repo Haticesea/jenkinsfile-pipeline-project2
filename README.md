@@ -1,3 +1,3 @@
 # jenkinsfile-pipeline-project2
 
- ###trigger
+ ###file changed
